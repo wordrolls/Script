@@ -40,7 +40,7 @@ do
 	open dict://"$word"
 
 	# open photoshop
-	open -a "Adobe Photoshop CS6"
+	open -a "Adobe Photoshop 2020"
 
 done
 
