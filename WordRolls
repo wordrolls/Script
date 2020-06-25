@@ -30,10 +30,11 @@ do
 	oxfordLink="https://en.oxforddictionaries.com/definition/$wordWithHyphens"
 	wordsInASentenceLink="https://wordsinasentence.com/$wordWithHyphens-in-a-sentence"
 	dictionaryLink="https://www.dictionary.com/browse/$wordWithHyphens"
+	creatorStudioLink="https://business.facebook.com/creatorstudio?tab=instagram_content_posts&mode=instagram&collection_id=all_pages&content_table=INSTAGRAM_PHOTO_POSTS"
 
 	# open in chrome
 	# https://superuser.com/a/1148415
-	open -a "Google Chrome" $oxfordLink $wordsInASentenceLink $dictionaryLink
+	open -a "Google Chrome" $oxfordLink $wordsInASentenceLink $dictionaryLink $creatorStudioLink
 
 	# open in dictionary
 	# https://apple.stackexchange.com/a/90044
