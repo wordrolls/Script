@@ -1,8 +1,8 @@
 #!/bin/bash
 
-##############
-# Word Rolls #
-##############
+#############################
+# Word Rolls Starter Script #
+#############################
 
 # making script executable
 # https://stackoverflow.com/a/5126052
